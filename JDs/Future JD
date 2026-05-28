@@ -1,0 +1,64 @@
+About Future
+At Future, we believe that personal connection is the key to progress. Our mission is to make world-class coaching accessible to everyone, helping people unlock their full potential through expert guidance, motivation, and accountability. As a digital personal training platform, we deliver highly personalized coaching, tailoring workout plans and support to each individual’s goals – all through a seamless app experience.
+
+Since launching in 2017, Future has grown from a brainstorm in a San Francisco cafe into the nation’s largest provider of personal training sessions. In January 2025, Future announced its merger with Autograph, the company founded by 7x World Champion and entrepreneur Tom Brady. We’re poised for massive growth as we expand our brand, forge new partnerships with some of the world’s most iconic athletes, and harness AI to enhance and scale our coaching experience.
+
+As we continue to grow, we’re investing in cutting-edge technology, deepening our roster of elite coaches, and building new partnerships. If you’re passionate about shaping the future of fitness, come join us – we’re just getting started.
+
+About the Role
+
+We’re hiring a Staff Product Engineer to own the member-facing experience at Future. This is not a component-building role. You’ll be shaping how our members interact with their coaches, track their progress, and stay motivated — and you’ll have real influence over the decisions that define that experience.
+
+You’ll work directly with product and design on a small, senior team. There are no layers between you and the work that matters.
+
+What You’ll Own:
+
+Product & Experience- Own the frontend architecture and implementation of our core member-facing product. Partner closely with product and design to translate vision into polished, performant interfaces. Build with the member in mind — you care about load times, interaction feel, and the small details that make an experience feel alive.
+
+Engineering Excellence- Set the standard for frontend code quality, component architecture, and design system usage across the team. Build for scale — write code that the next engineer can pick up, extend, and ship with confidence. Instrument the frontend for performance and reliability. Know when things break before members do.
+
+AI as a Force Multiplier- Use AI to accelerate prototyping, code review, and documentation — then apply your judgment to sharpen the output. Bring a perspective on how AI can be woven into the member experience itself — personalization, intelligent UI, adaptive coaching flows.
+
+Who You Are:
+
+Experience & Background
+
+5+ years of frontend engineering experience, with significant time on consumer-facing mobile or web products.
+Deep expertise in React Native or React, TypeScript, and modern state management.
+Strong design sensibility — you can work from a Figma file and know when something is off.
+Production experience with Next.js (App Router, SSR/CSR tradeoffs, caching)
+Solid understanding of rendering patterns (SSR/SSG/client), performance (memoization, avoiding unnecessary renders) state management (server vs client state separation)
+Comfortable building clean UI from designs (spacing, layout, accessibility)
+You’ve operated at the Senior or Staff level — or functioned at that altitude regardless of title.
+Experience in a fast-moving startup where you’ve made smart tradeoffs between polish and velocity.
+Use AI tools and coding AI Agents (Claude, Cursor, Codex)
+Domain Passion You care about health, fitness, and the idea that great coaching can change people’s lives.
+
+Working Style
+
+High craft. You see the difference between good and great and you care about it.
+Collaborative with design — you push back when something doesn’t work and propose alternatives, not just problems.
+Low ego, high ownership. You do what needs to be done.
+Nice to Have:
+
+Experience with health or wellness consumer apps.
+Deployment experience on Vercel or Amazon Web Services.
+Experience with monorepos (e.g. Turborepo/Nx) and multi-app setups
+Familiar with BFF patterns (frontend talking to its own backend layer)
+Strong testing habits (unit + e2e as part of delivery)
+Experience building AI-powered or personalized product experiences.
+Familiarity with performance optimization for mobile apps at scale.
+Compensation & Benefits:
+
+We believe great people should be well paid and meaningfully invested in what they’re building.
+
+Base Salary $ 185,000– 225,000 $ / year. The salary range is set based on multiple considerations including business needs, market demands, talent availability, experience, and unique skills and attributes. The base pay range is subject to change and may be modified in the future.
+Equity Meaningful early-stage equity package with standard 4-year vesting and 1-year cliff.
+Health Coverage Comprehensive medical, dental, and vision insurance, plus life and disability coverage.
+Retirement 401(k) plan with tax-advantaged savings options.
+Remote-First Work from anywhere in the continental U.S.
+Home Office Support Stipend to set up your workspace and monthly support for internet or coworking.
+Wellness Monthly wellness stipend plus access to mental health resources and therapy support.
+Flexible Time Off Flexible PTO so you can rest, recharge, and take care of life outside of work.
+Learning & Development Annual budget for courses, conferences, coaching, and tools.
+Future is a diverse, passionate, and driven team. We welcome applicants of all backgrounds.
